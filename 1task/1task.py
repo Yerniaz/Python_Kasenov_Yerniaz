@@ -1,0 +1,10 @@
+a = input('First name: '); b = input('Second name: ');
+c = input('Age: ' )
+d = input('Where do u live: ')
+print("||||||||||||||||||||||||||||||||||||||||||||||")
+print('Your name: ' + a)
+print('Second name: ' + b)
+print("Your age " + c)
+print('Yu live in ' + d)
+print()
+input()
