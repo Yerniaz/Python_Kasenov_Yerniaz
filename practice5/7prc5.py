@@ -1,0 +1,5 @@
+txt = input("Text: ")
+b = round(len(txt) / 2)
+replace = txt.replace('n', '*', b)
+print('ans: ', replace)
+print(b)
